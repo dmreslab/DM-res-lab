@@ -13,7 +13,7 @@ We are studying epidemiology on type 1 diabetes mellitus patients and type 2 dia
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Continuous glucose monitoring with structured education in adults with type 2 diabetes managed by multiple daily insulin injections: a multicentre randomised controlled trial" style="rich" %}
 
 {% include section.html %}
 
