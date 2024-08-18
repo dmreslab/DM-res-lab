@@ -202,7 +202,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: https://doi.org/10.1007/s00125-024-06152-1
+- id: doi:10.1007/s00125-024-06152-1
   title: 'Continuous glucose monitoring with structured education in adults with type
     2 diabetes managed by multiple daily insulin injections: a multicentre randomised
     controlled trial'
@@ -220,7 +220,7 @@
   - Jae Hyeon Kim
   publisher: Diabetologia
   date: '2024-04-19'
-  link: https://doi.org/10.1007/s00125-024-06152-1
+  link: https://doi.org/gt7bxf
   type: paper
   description: Continuous glucose monitoring
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-024-06152-1/MediaObjects/125_2024_6152_Figa_HTML.png?as=webp
