@@ -1,8 +1,9 @@
 ---
 ---
 
-# D&M res lab (Diabetes and Metabolism Research lab)
+# Introduction
 
+Real World Evidence (RWD) research on type 1 diabetes mellitus and type 2 diabetes mellitus. Espescially we are studying continuous glucose monitoring data and claim data. 
 
 {% include section.html %}
 
