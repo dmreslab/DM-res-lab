@@ -1,8 +1,7 @@
 ---
 ---
 
-# dmreslabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
+# D&M res lab (Diabetes and Metabolism Research lab)
 
 
 {% include section.html %}
@@ -11,7 +10,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is the lab of T1DM
 
 {%
   include button.html
