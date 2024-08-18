@@ -3,7 +3,7 @@
 
 # Introduction
 
-Real World Evidence (RWD) research on type 1 diabetes mellitus and type 2 diabetes mellitus. Espescially we are studying continuous glucose monitoring data and claim data. 
+Real World Evidence (RWD) research on type 1 diabetes mellitus and type 2 diabetes mellitus. Espescially we are studying continuous glucose monitoring (CGM) data and claim data. 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ Real World Evidence (RWD) research on type 1 diabetes mellitus and type 2 diabet
 
 {% capture text %}
 
-This is the lab of T1DM
+T1DM, T2DM, CGM, and claim data.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ This is the lab of T1DM
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Automatic insulin message
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is blabla...
 
 {%
   include button.html
