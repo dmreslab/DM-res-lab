@@ -34,7 +34,7 @@ T1DM, T2DM, CGM, and claim data.
 
 {% capture text %}
 
-Automatic insulin message
+Automatic insulin message coaching
 
 {%
   include button.html
