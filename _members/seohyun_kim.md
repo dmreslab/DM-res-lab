@@ -1,3 +1,4 @@
+---
 name: Seohyun Kim
 image: images/seohyun_kim.jpg
 description: Ph.D student
