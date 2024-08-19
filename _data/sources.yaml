@@ -372,9 +372,6 @@
 - id: doi:10.1111/1753-0407.12248
   type: paper
   date: 2014-11-20
-- id: doi:nan
-  type: paper
-  date: 2023-06-09
 - id: doi:10.1016/j.diabres.2023.110884
   type: paper
   date: 2023-08-18
@@ -624,9 +621,6 @@
 - id: doi:10.1016/j.diabres.2022.109209
   type: paper
   date: 2022-01-22
-- id: doi:nan
-  type: paper
-  date: 2018-08-17
 - id: doi:10.1177/19322968241262106
   type: paper
   date: 2024-07-30
