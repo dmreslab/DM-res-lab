@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are recruiting people who are passionate to study on dibates mellitus.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="jaehyeonkim26@gmail.com"
+  link="jaehyeonkim26@gmail.com"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="000"
+  link="000"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/search/%EC%82%BC%EC%84%B1%EC%84%9C%EC%9A%B8%EB%B3%91%EC%9B%90/data=!3m1!4b1?entry=ttu"
 %}
 
 {% include section.html %}
