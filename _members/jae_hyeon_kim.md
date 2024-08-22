@@ -11,4 +11,4 @@ links:
   
 ---
 
-Jaehyeon Kim is a medical doctor
+Jae Hyeon Kim is a medical doctor.

@@ -1,6 +1,6 @@
 ---
-name: Sangho Park
-image: images/photo.jpg
+name: Sang Ho Park
+image: images/sang_ho_park.jpeg
 description: PhD student
 role: phd
 links:
@@ -9,4 +9,4 @@ links:
   orcid: 0000-0002-6046-7425
 ---
 
-Sangho Park is a biostatistician and major in clinical epidemiology in PhD degree
+Sangho Park is a biostatistician and major in clinical epidemiology in PhD degree.
