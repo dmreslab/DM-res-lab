@@ -234,6 +234,17 @@
 - id: doi:10.1007/s00125-024-06155-y
   type: paper
   date: 2024-04-18
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-024-06155-y/MediaObjects/125_2024_6155_Figa_HTML.png?as=webp
+  tags:
+    - Artificial pancreas
+    - Automated insulin delivery
+    - Hybrid closed-loop
+    - On-body automated insulin delivery system
+    - Sensor-augmented pump
+    - Tubeless patch pump
+    - Type 1 diabetes
+
+
 - id: doi:10.1089/thy.2016.0171
   type: paper
   date: 2016-11-05
@@ -366,6 +377,12 @@
 - id: doi:10.1016/j.diabres.2022.110083
   type: paper
   date: 2022-09-19
+  tags:
+    - Severe hypoglycemia
+    - Non-insulin dependent diabetes mellitus
+    - Heart failure
+    - Propensity score
+    - Population-based studies
 - id: doi:10.1111/1753-0407.12248
   type: paper
   date: 2014-11-20
