@@ -3,7 +3,7 @@
 
 # Introduction
 
-Real World Evidence (RWD) research on type 1 diabetes mellitus and type 2 diabetes mellitus. Espescially we are studying continuous glucose monitoring (CGM) data and claim data. 
+Our mission is to integrate epidemiology, biostatistics, and public health to shape healthier lifestyle choices and contribute to a better future. We focus on type 1 diabetes through innovative studies in epidemiology and continuous glucose monitoring, aiming to improve diabetes prevention, management, and public health. 
 
 {% include section.html %}
 
@@ -59,7 +59,7 @@ Automatic insulin message coaching
 
 {% capture text %}
 
-Our team is blabla...
+Introducing our highly dedicated and persistent research team, committed to advancing the field of diabetes and metabolic diseases. With expertise in epidemiology, and public health, our team is at the forefront of innovative research, working tirelessly to uncover new insights and develop effective interventions that will shape the future of healthcare.
 
 {%
   include button.html

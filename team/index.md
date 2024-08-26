@@ -7,18 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are recruiting people who are passionate to study on dibates mellitus.
+-	Introducing our highly dedicated and persistent research team, committed to advancing the field of diabetes and metabolic diseases. With expertise in epidemiology, and public health, our team is at the forefront of innovative research, working tirelessly to uncover new insights and develop effective interventions that will shape the future of healthcare.
 
 {% include section.html %}
+
+# Professors 
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-We are recruiting people who are passionate to study on dibates mellitus.
+# Ph.D and Master students.
 
 {% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% capture content %}
 
