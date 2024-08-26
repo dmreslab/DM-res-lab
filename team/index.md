@@ -13,7 +13,9 @@ Introducing our highly dedicated and persistent research team, committed to adva
 
 ## Professors 
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="name: Jae Hyeon Kim" %}
+{% include list.html data="members" component="portrait" filters="name: Sang-Man Jin" %}
+{% include list.html data="members" component="portrait" filters="name: Gyuri Kim" %}
 
 ## Ph.D and Master students
 
