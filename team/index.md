@@ -15,11 +15,11 @@ Introducing our highly dedicated and persistent research team, committed to adva
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
-## Ph.D and Master students.
+## Ph.D and Master students
 
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-## Collaborations.
+## Collaborations
 
 
 {% include section.html %}
