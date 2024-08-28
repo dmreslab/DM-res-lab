@@ -54,6 +54,12 @@ email:
   tooltip: Email
   link: mailto:$VALUE
 
+email2:
+  icon: fa-solid fa-envelope
+  text: Email
+  tooltip: Email
+  link: mailto:$VALUE
+
 phone:
   icon: fa-solid fa-phone
   text: Phone Number
