@@ -19,10 +19,20 @@ Introducing our highly dedicated and persistent research team, committed to adva
 
 ## Ph.D and Master students
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="name: So Hyun Cho" %}
+{% include list.html data="members" component="portrait" filters="name: Rosa OH" %}
+{% include list.html data="members" component="portrait" filters="name: Myunghwa Jang" %}
+{% include list.html data="members" component="portrait" filters="name: Soojung Hahn" %}
+{% include list.html data="members" component="portrait" filters="name: Seohyun Kim" %}
+{% include list.html data="members" component="portrait" filters="name: Sang Ho Park" %}
+{% include list.html data="members" component="portrait" filters="name: Soojin Park" %}
+{% include list.html data="members" component="portrait" filters="name: Minkyeong Kim" %}
+
+
+
 
 ## Collaborations
-
+{% include list.html data="members" component="portrait" filters="name: Jee Hee Yoo" %}
 
 {% include section.html %}
 
