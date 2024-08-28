@@ -1,6 +1,6 @@
 ---
 name: Jee Hee Yoo
-image: images/sang_ho_park.jpeg
+image: images/jee_hee_yoo.jpg
 description: M.D. Ph.D. Endocrinologist
 affiliation: Chung-Ang University Gwangmyeong Hospital and Chung-Ang University
 links:
