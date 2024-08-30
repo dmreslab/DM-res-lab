@@ -1,7 +1,7 @@
 ---
 name: Sang Ho Park
 image: images/sang_ho_park.jpeg
-description: PhD student
+description: Ph.D student
 role: phd
 links:
   email: shstat1729@gmail.com
