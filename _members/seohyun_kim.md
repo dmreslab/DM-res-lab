@@ -1,7 +1,7 @@
 ---
 name: Seohyun Kim
 image: images/seohyun_kim.jpg
-description: Ph.D student
+description: Postdoctoral Researcher
 role: postdoc
 links:
   email: say3421@naver.com
