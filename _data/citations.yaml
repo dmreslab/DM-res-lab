@@ -4846,3 +4846,22 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.4093/dmj.2024.0042
+  title: Metabolic Dysfunction-Associated Steatotic Liver Disease and All-Cause and
+    Cause-Specific Mortality
+  authors:
+  - Rosa Oh
+  - Seohyun Kim
+  - So Hyun Cho
+  - Jiyoon Kim
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Gyuri Kim
+  - Jae Hyeon Kim
+  publisher: Diabetes &amp; Metabolism Journal
+  date: '2024-08-28'
+  link: https://doi.org/gt82qz
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
