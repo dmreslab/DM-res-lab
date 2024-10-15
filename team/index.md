@@ -34,6 +34,7 @@ Introducing our highly dedicated and persistent research team, committed to adva
 ## Collaborations
 {% include list.html data="members" component="portrait" filters="name: Jee Hee Yoo" %}
 {% include list.html data="members" component="portrait" filters="name: Ji Yoon Kim" %}
+{% include list.html data="members" component="portrait" filters="name: So Yoon Kwon" %}
 {% include section.html %}
 
 {% capture content %}
