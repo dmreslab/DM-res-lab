@@ -13,3 +13,9 @@ Sangho Park is a biostatistician and Ph.D. candidate majoring in clinical epidem
 
 Programming language
 R (intermediate high), SAS (intermediate), python (intermediate), SQL (intermediate), and C++ (basic)
+
+He operates a [blog](https://tea-tasting-statisticians.github.io/about/) which introduces biostatistics, regulatory sciences, and real-world evidence. His nom de plume is Tea Tasting Gentleman.
+
+Below link
+
+[Tea Tasting Statisticians](https://tea-tasting-statisticians.github.io/about/)
