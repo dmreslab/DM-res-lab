@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1177/19322968241310850
+  title: Glycemia Risk Index is Associated With Risk of Albuminuria Among Individuals
+    With Type 1 Diabetes
+  authors:
+  - Ji Yoon Kim
+  - Jee Hee Yoo
+  - Nam Hoon Kim
+  - Jae Hyeon Kim
+  publisher: Journal of Diabetes Science and Technology
+  date: '2025-01-08'
+  link: https://doi.org/g8zjwv
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1177/19322968241306136
   title: Improved Glycemic Control in Insulin-Treated Individuals With Poorly Controlled
     Type 2 Diabetes Through Combined Structured Education With Real-Time Continuous
