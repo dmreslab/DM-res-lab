@@ -5,7 +5,7 @@ description: Ph.D student
 role: phd
 links:
   email: shstat1729@gmail.com
-  linkedin : sangho-park-4220aa22a/
+  linkedin : shstat1729/
   orcid: 0000-0002-6046-7425
 ---
 
