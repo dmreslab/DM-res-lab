@@ -1,5 +1,83 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.4093/dmj.2024.0804
+  title: "Current Status of Continuous Glucose Monitoring Use in South Korean Type\
+    \ 1 Diabetes Mellitus Population\u2013Pronounced Age-Related Disparities: Nationwide\
+    \ Cohort Study"
+  authors:
+  - Ji Yoon Kim
+  - Seohyun Kim
+  - Jae Hyeon Kim
+  publisher: Diabetes &amp; Metabolism Journal
+  date: '2025-04-28'
+  link: https://doi.org/g9g4v6
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/joim.20071
+  title: Higher suicide risk in type 1 diabetes compared to cancer and the general
+    population in Korea
+  authors:
+  - Seohyun Kim
+  - So Hyun Cho
+  - Rosa Oh
+  - Ji Yoon Kim
+  - "You\u2010Bin Lee"
+  - "Sang\u2010Man Jin"
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  - Gyuri Kim
+  publisher: Journal of Internal Medicine
+  date: '2025-02-11'
+  link: https://doi.org/g848wk
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4093/dmj.2024.0160
+  title: 'Comparison of Real-Time and Intermittently-Scanned Continuous Glucose Monitoring
+    for Glycemic Control in Type 1 Diabetes Mellitus: Nationwide Cohort Study'
+  authors:
+  - Ji Yoon Kim
+  - Seohyun Kim
+  - Jae Hyeon Kim
+  publisher: Diabetes &amp; Metabolism Journal
+  date: '2025-02-27'
+  link: https://doi.org/g86tk6
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3803/EnM.2024.2082
+  title: 'Time to Insulin Therapy and Severe Hypoglycemia in Korean Adults Initially
+    Diagnosed with Type 2 Diabetes: A Nationwide Study'
+  authors:
+  - You-Bin Lee
+  - Kyungdo Han
+  - Bongsung Kim
+  - So Hee Park
+  - Kyu Yeon Hur
+  - Gyuri Kim
+  - Jae Hyeon Kim
+  - Sang-Man Jin
+  publisher: Endocrinology and Metabolism
+  date: '2025-02-04'
+  link: https://doi.org/g84h77
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/19322968241310850
+  title: Glycemia Risk Index is Associated With Risk of Albuminuria Among Individuals
+    With Type 1 Diabetes
+  authors:
+  - Ji Yoon Kim
+  - Jee Hee Yoo
+  - Nam Hoon Kim
+  - Jae Hyeon Kim
+  publisher: Journal of Diabetes Science and Technology
+  date: '2025-01-08'
+  link: https://doi.org/g8zjwv
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1177/19322968241306136
   title: Improved Glycemic Control in Insulin-Treated Individuals With Poorly Controlled
     Type 2 Diabetes Through Combined Structured Education With Real-Time Continuous
@@ -76,6 +154,27 @@
   orcid: 0000-0001-5001-963X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s11739-024-03758-6
+  title: 'The association of fatty liver index and metabolic syndrome with cardiovascular
+    outcomes, liver-related mortality, and all-cause mortality: a nationwide cohort
+    study'
+  authors:
+  - So Hee Park
+  - Jiyun Park
+  - Hasung Kim
+  - Jungkuk Lee
+  - So Yoon Kwon
+  - You-Bin Lee
+  - Gyuri Kim
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  publisher: Internal and Emergency Medicine
+  date: '2024-09-05'
+  link: https://doi.org/g8nmxb
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3803/EnM.2024.1985
   title: Comparative Analysis of Liquid Chromatography-Tandem Mass Spectrometry and
     Radioimmunoassay in Determining Plasma Aldosterone Concentration and Plasma Renin
@@ -120,27 +219,6 @@
   publisher: Journal of Diabetes Science and Technology
   date: '2024-10-14'
   link: https://doi.org/g8nmw8
-  orcid: 0000-0001-5001-963X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11739-024-03758-6
-  title: 'The association of fatty liver index and metabolic syndrome with cardiovascular
-    outcomes, liver-related mortality, and all-cause mortality: a nationwide cohort
-    study'
-  authors:
-  - So Hee Park
-  - Jiyun Park
-  - Hasung Kim
-  - Jungkuk Lee
-  - So Yoon Kwon
-  - You-Bin Lee
-  - Gyuri Kim
-  - Sang-Man Jin
-  - Kyu Yeon Hur
-  - Jae Hyeon Kim
-  publisher: Internal and Emergency Medicine
-  date: '2024-09-05'
-  link: https://doi.org/g8nmxb
   orcid: 0000-0001-5001-963X
   plugin: orcid.py
   file: orcid.yaml
@@ -1278,7 +1356,7 @@
   file: sources.yaml
 - id: doi:10.1097/SLA.0000000000006183
   title: Adrenalectomy Improves Body Weight, Glucose, and Blood Pressure Control in
-    Patients with Mild Autonomous Cortisol Secretion
+    Patients With Mild Autonomous Cortisol Secretion
   authors:
   - Jung-Min Koh
   - Keeho Song
