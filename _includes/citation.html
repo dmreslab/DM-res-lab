@@ -22,6 +22,9 @@
           src="{{ citation.image | relative_url }}"
           alt="{{ citation.title | default: "citation image" }}"
           loading="lazy"
+          {% if citation.image_position %}
+            style="object-position: {{ citation.image_position }};"
+          {% endif %}
           {% include fallback.html %}
         >
       </a>
