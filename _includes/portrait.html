@@ -27,6 +27,9 @@
       class="portrait-image"
       alt="member portrait"
       loading="lazy"
+      {% if member.image_position %}
+        style="object-position: {{ member.image_position }};"
+      {% endif %}
       {% include fallback.html %}
     >
 
