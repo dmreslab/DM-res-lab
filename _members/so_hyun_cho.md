@@ -1,6 +1,6 @@
 ---
 name: So Hyun Cho
-image: images/photo.jpg
+image: images/so_hyun_cho.jpeg
 description: M.D. Fellow in Endocrinology and Metabolism, Samsung Medical Center 
 role: 
 links:

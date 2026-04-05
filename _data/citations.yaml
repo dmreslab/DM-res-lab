@@ -1,5 +1,813 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s12933-025-02712-w
+  title: 'Elevated triglyceride-glucose index is a risk factor for cardiovascular events in adults with type 1 diabetes: a cohort study'
+  authors:
+  - Rosa Oh
+  - Seohyun Kim
+  - Sang Ho Park
+  - Myunghwa Jang
+  - So Hyun Cho
+  - Ji Yoon Kim
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Gyuri Kim
+  - Jae Hyeon Kim
+  publisher: Cardiovascular Diabetology
+  date: '2025-04-02'
+  link: https://doi.org/10.1186/s12933-025-02712-w
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.jacc.2025.07.021
+  title: 'Statins in Type 1 Diabetes: Bridging the Evidence Gap With Target Trial Emulation'
+  authors:
+  - Danbee Kang
+  - Ki Hong Choi
+  - Jae Hyeon Kim
+  publisher: JACC
+  date: '2025-09-10'
+  link: https://doi.org/10.1016/j.jacc.2025.07.021
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1186/s12933-024-02489-4
+  title: 'Metabolic dysfunction-associated steatotic liver disease in patients with type 2 diabetes: risk of heart failure'
+  authors:
+  - Rosa Oh
+  - Gyuri Kim
+  - Kyu-na Lee
+  - So Hyun Cho
+  - Ji Yoon Kim
+  - Seohyun Kim
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Kyungdo Han
+  - Jae Hyeon Kim
+  publisher: Cardiovascular Diabetology
+  date: '2024-11-02'
+  link: https://doi.org/10.1186/s12933-024-02489-4
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1111/dom.70030
+  title: 'Efficacy and safety of pioglitazone, empagliflozin and glimepiride as third-line agents in patients with type 2 diabetes inadequately controlled with metformin and DPP-4 inhibitors: A multicentre, phase 4 randomized controlled trial'
+  authors:
+  - Yun Kyung Cho
+  - "Jae\u2010Hyoung Cho"
+  - "Sang\u2010Mo Hong"
+  - Jung Hwan Park
+  - "Byung\u2010Wan Lee"
+  - Jee Hee Yoo
+  - Jae Hyeon Kim
+  - Sung Wan Chun
+  - "You\u2010Cheol Hwang"
+  - "Kee\u2010Ho Song"
+  - Woo Je Lee
+  publisher: Diabetes, Obesity and Metabolism
+  date: '2025-08-14'
+  link: https://doi.org/10.1111/dom.70030
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1038/s41598-025-30882-w
+  title: 'Efficacy and safety of pioglitazone versus dapagliflozin as an add-on to metformin and alogliptin combination therapy: the EPIDOTE study'
+  authors:
+  - Kyuho Kim
+  - Seung-Hyun Ko
+  - Jae-Seung Yun
+  - Kwan-Woo Lee
+  - Eun Sook Kim
+  - In-Kyung Jeong
+  - Jae Hyeon Kim
+  - Sang Yong Kim
+  - Kyu Chang Won
+  - Mikyung Kim
+  - Bong-Soo Cha
+  - Sungrae Kim
+  - Sung Hee Choi
+  - Eun-Jung Rhee
+  - Sin Gon Kim
+  - Bo Hyun Kim
+  - Kang Seo Park
+  - Young-Cheol Ju
+  - Tae-Won Heo
+  - Yu-Bae Ahn
+  publisher: Scientific Reports
+  date: '2025-12-11'
+  link: https://doi.org/10.1038/s41598-025-30882-w
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.4093/dmj.2025.0469
+  title: '2025 Clinical Practice Guidelines for Diabetes Management in Korea: Recommendation of the Korean Diabetes Association'
+  authors:
+  - Shinae Kang
+  - Seon Mee Kang
+  - Jong Han Choi
+  - Seung-Hyun Ko
+  - Bo Kyung Koo
+  - Hyuk-Sang Kwon
+  - Mi Kyung Kim
+  - Sang Yong Kim
+  - Soo-Kyung Kim
+  - Young-eun Kim
+  - Eun Sook Kim
+  - Jae Hyeon Kim
+  - Chong Hwa Kim
+  - Ji Min Kim
+  - Hae Jin Kim
+  - Min Kyong Moon
+  - Sun Joon Moon
+  - Jun Sung Moon
+  - Joon Ho Moon
+  - Se Hee Min
+  - Jung Hwan Park
+  - Jaehyun Bae
+  - Keeho Song
+  - Ji Yoon Ahn
+  - Jae-Seung Yun
+  - Woo Je Lee
+  - You-Bin Lee
+  - Suk Chon
+  - Eonju Jeon
+  - Sang-Man Jin
+  - Eugene Han
+  - You-Cheol Hwang
+  - Jae Hyun Bae
+  - YoonJu Song
+  - Jeong Hyun Lim
+  - Jae Won Cho
+  - Ji Yeon Choi
+  - Yong Hee Hong
+  - Jieun Lee
+  - Sung Eun Kim
+  - Ji Yun Noh
+  - Bong-Soo Cha
+  - Byung-Wan Lee
+  publisher: Diabetes & Metabolism Journal
+  date: '2025-07-09'
+  link: https://doi.org/10.4093/dmj.2025.0469
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1038/s41598-025-16750-7
+  title: Impact of smoking and physical activity on cardiovascular outcomes in type 2 diabetes across steatotic liver disease categories
+  authors:
+  - So Hyun Cho
+  - Gyuri Kim
+  - Kyu-na Lee
+  - Rosa Oh
+  - Ji Yoon Kim
+  - Myunghwa Jang
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Kyungdo Han
+  - Jae Hyeon Kim
+  publisher: Scientific Reports
+  date: '2025-08-23'
+  link: https://doi.org/10.1038/s41598-025-16750-7
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.4093/dmj.2024.0641
+  title: Metabolic Dysfunction-Associated Steatotic Liver Disease and Risk of Hepatocellular Carcinoma in Type 2 Diabetes Mellitus
+  authors:
+  - So Hyun Cho
+  - Gyuri Kim
+  - Kyu-na Lee
+  - Rosa Oh
+  - Ji Yoon Kim
+  - Myunghwa Jang
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Kyungdo Han
+  - Jae Hyeon Kim
+  publisher: Diabetes & Metabolism Journal
+  date: '2025-07-22'
+  link: https://doi.org/10.4093/dmj.2024.0641
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1038/s41598-025-94783-8
+  title: 'Impact of steatotic liver disease categories on atrial fibrillation in type 2 diabetes: a nationwide study'
+  authors:
+  - So Hyun Cho
+  - Gyuri Kim
+  - Kyu-na Lee
+  - Rosa Oh
+  - Ji Yoon Kim
+  - Myunghwa Jang
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Kyungdo Han
+  - Jae Hyeon Kim
+  publisher: Scientific Reports
+  date: '2025-04-03'
+  link: https://doi.org/10.1038/s41598-025-94783-8
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/s00125-025-06442-2
+  title: Time in tight range and time in range for predicting the achievement of typical glucose management indicator and HbA(1c) targets
+  authors:
+  - Seohyun Kim
+  - Sang Ho Park
+  - Jin A. Lee
+  - So Hyun Cho
+  - Rosa Oh
+  - Ji Yoon Kim
+  - You-Bin Lee
+  - Gyuri Kim
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  - Sang-Man Jin
+  publisher: Diabetologia
+  date: '2025-05-07'
+  link: https://doi.org/10.1007/s00125-025-06442-2
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.diabres.2025.112325
+  title: 'Associations of time in tight range, time in range, and glycated hemoglobin with albuminuria in type 1 diabetes: A cross-sectional study'
+  authors:
+  - Ji Yoon Kim
+  - Seohyun Kim
+  - Sang Ho Park
+  - Jin A Lee
+  - So Hyun Cho
+  - Rosa Oh
+  - Myunghwa Jang
+  - You-Bin Lee
+  - Gyuri Kim
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  - Sang-Man Jin
+  publisher: Diabetes Research and Clinical Practice
+  date: '2025-06-11'
+  link: https://doi.org/10.1016/j.diabres.2025.112325
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.bbrc.2025.151730
+  title: 'Modeling diabetic intestinal organoids: Aspects of rapid gut barrier disruption'
+  authors:
+  - Soojung Hahn
+  - In Woong Han
+  - Sang Hyun Shin
+  - Gyuri Kim
+  - Jae Hyeon Kim
+  publisher: Biochemical and Biophysical Research Communications
+  date: '2025-04-01'
+  link: https://doi.org/10.1016/j.bbrc.2025.151730
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.psychres.2024.116228
+  title: 'Impact of mental disorders on the all-cause mortality and cardiovascular disease outcomes in adults with new-onset type 1 diabetes: A nationwide cohort study'
+  authors:
+  - Seohyun Kim
+  - Gyuri Kim
+  - So Hyun Cho
+  - Rosa Oh
+  - Ji Yoon Kim
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  publisher: Psychiatry Research
+  date: '2024-10-20'
+  link: https://doi.org/10.1016/j.psychres.2024.116228
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.3892/or.2015.4000
+  title: Ligularia fischeri inhibits endothelial cell proliferation, invasion and tube formation through the inactivation of mitogenic signaling pathways and regulation of vascular endothelial cadherin distribution and matrix metalloproteinase expression
+  authors:
+  - JAE HYEON KIM
+  - HYEON-JU KIM
+  - JIN-KYU KIM
+  - EUN-KYUNG AHN
+  - HYE-JIN KO
+  - YOUNG-RAK CHO
+  - SANG-JIN LEE
+  - GYU-UN BAE
+  - YONG KEE KIM
+  - JONG WOO PARK
+  - JOA SUB OH
+  - DONG-WAN SEO
+  publisher: Oncology Reports
+  date: '2015-05-23'
+  link: https://doi.org/10.3892/or.2015.4000
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.bios.2025.118321
+  title: High-performance graphene field-effect transistor platform for on-site schizophrenia-related biomarkers detection
+  authors:
+  - Seo Jin Kim
+  - Yeon Kyung Cha
+  - Kyung Ho Kim
+  - Gyeong-Ji Kim
+  - Sung Eun Seo
+  - Jung In Kim
+  - Jae Hyeon Kim
+  - Yeon Kyung Lee
+  - Minah Seo
+  - Yong-Sang Ryu
+  - Se-Hong Kim
+  - Kyoung G. Lee
+  - Hyun Seok Song
+  - Oh Seok Kwon
+  publisher: Biosensors and Bioelectronics
+  date: '2025-12-23'
+  link: https://doi.org/10.1016/j.bios.2025.118321
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.12701/jyms.2025.42.60
+  title: 'Experiences of healthcare providers and patients with diabetes mellitus regarding continuous glucose monitoring use in South Korea: a multicenter, cross-sectional survey study'
+  authors:
+  - Young-Jin Choi
+  - Jung-Hwa Lee
+  - Kyu-Jeung Ahn
+  - Ho-Yeon Chung
+  - Ji Eun Jun
+  - You-Cheol Hwang
+  - Hyuk-Sang Kwon
+  - Young Na
+  - Jae-Hyeon Kim
+  - Kang-Hee Sim
+  - Kun-Ho Yoon
+  - Bok-Rye Song
+  - In-Kyung Jeong
+  publisher: Journal of Yeungnam Medical Science
+  date: '2025-09-30'
+  link: https://doi.org/10.12701/jyms.2025.42.60
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/s13300-018-0470-9
+  title: 'Characteristics of Dapagliflozin Responders: A Longitudinal, Prospective, Nationwide Dapagliflozin Surveillance Study in Korea'
+  authors:
+  - Eugene Han
+  - Ari Kim
+  - Sung Jae Lee
+  - Je-Yon Kim
+  - Jae Hyeon Kim
+  - Woo Je Lee
+  - Byung-Wan Lee
+  publisher: Diabetes Therapy
+  date: '2018-07-13'
+  link: https://doi.org/10.1007/s13300-018-0470-9
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1097/MPA.0b013e318214832d
+  title: Improved outcome of islet transplantation in partially pancreatectomized diabetic mice by inhibition of dipeptidyl peptidase-4 with sitagliptin
+  authors:
+  - Young-Seok Kim
+  - Seung-Hoon Oh
+  - Ki-Soo Park
+  - Heesung No
+  - Bae-Jun Oh
+  - Soo Kyoung Kim
+  - Hye Seung Jung
+  - Jae-Hyeon Kim
+  - Myung-Shik Lee
+  - Moon-Kyu Lee
+  - Kwang-Won Kim
+  publisher: Pancreas
+  date: '2011-07-13'
+  link: https://doi.org/10.1097/mpa.0b013e318214832d
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1097/TP.0b013e3181c7dc99
+  title: Trophic molecules derived from human mesenchymal stem cells enhance survival, function, and angiogenesis of isolated islets after transplantation
+  authors:
+  - Ki-Soo Park
+  - Young-Seok Kim
+  - Jae-Hyeon Kim
+  - Bongkum Choi
+  - Sa-Hyun Kim
+  - Alice Hyun-Kyung Tan
+  - Myung-Shik Lee
+  - Moon-Kyu Lee
+  - Choon-Hyuck Kwon
+  - Jae-Won Joh
+  - Sung-Joo Kim
+  - Kwang-Won Kim
+  publisher: Transplantation
+  date: '2010-02-04'
+  link: https://doi.org/10.1097/tp.0b013e3181c7dc99
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1063/5.0020137
+  title: A flexible self-recovery finger joint for a tendon-driven robot hand
+  authors:
+  - Dong Jun Oh
+  - Zheng Yuan Li
+  - Jae Hyeon Kim
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  - Ja Choon Koo
+  publisher: Review of Scientific Instruments
+  date: '2020-12-02'
+  link: https://doi.org/10.1063/5.0020137
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1186/s12889-025-24617-9
+  title: 'Impact of national reimbursement policy supporting test strips on glycemic control in people with insulin-treated diabetes: retrospective cohort study'
+  authors:
+  - Seohyun Kim
+  - Mira Kang
+  - Dohyun Park
+  - Gyuri Kim
+  - Jae Hyeon Kim
+  publisher: BMC Public Health
+  date: '2025-11-01'
+  link: https://doi.org/10.1186/s12889-025-24617-9
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.4093/dmj.2025.0477
+  title: Efficacy and Safety of Enavogliflozin as Add-on in Adults with Type 2 Diabetes Mellitus Inadequately Controlled with Insulin or Insulin with Other Antidiabetic Drugs
+  authors:
+  - Jun Hwa Hong
+  - Kyung Wan Min
+  - Chang Beom Lee
+  - Parinya Chamnan
+  - Thanitha Sirirak
+  - Kiran Sony
+  - Sarinya Sattanon
+  - Hae Jin Kim
+  - Sang-Yong Kim
+  - Younghee Kim
+  - Jung A Heo
+  - Jae Min Cho
+  - Jae Jin Nah
+  - Mi Hee Park
+  - Jae Hyeon Kim
+  publisher: Diabetes & Metabolism Journal
+  date: '2025-12-15'
+  link: https://doi.org/10.4093/dmj.2025.0477
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1097/TP.0b013e318191e925
+  title: ATP measurement predicts porcine islet transplantation outcome in nude mice
+  authors:
+  - Jae Hyeon Kim
+  - Sang Gyu Park
+  - Han Na Lee
+  - Yeon Yi Lee
+  - Ho Sun Park
+  - Hyong-Il Kim
+  - Jae Eun Yu
+  - Sun Hee Kim
+  - Chung-Gyu Park
+  - Jongwon Ha
+  - Sang Jun Kim
+  - Kyong Soo Park
+  publisher: Transplantation
+  date: '2009-01-22'
+  link: https://doi.org/10.1097/tp.0b013e318191e925
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.3803/EnM.2025.2579
+  title: 'Efficacy and Safety of Stage 5 Connected Insulin Pens in Type 1 or Type 2 Diabetes: Randomized Controlled Trial Protocol'
+  authors:
+  - Ji Yoon Kim
+  - Nam Hoon Kim
+  - Soo Heon Kwak
+  - Chang Hee Jung
+  - Eun Seok Kang
+  - Jun Sung Moon
+  - Sun Joon Moon
+  - So Yoon Kwon
+  - Jee Hee Yoo
+  - Younghoon Kim
+  - Tae-min Lee
+  - Chung-il Yang
+  - Jae Hyeon Kim
+  - Sang-Man Jin
+  publisher: Endocrinology and Metabolism
+  date: '2025-12-14'
+  link: https://doi.org/10.3803/enm.2025.2579
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.4093/dmj.2025.0179
+  title: 'High Waist-to-Height Ratio Increases the Risk of Cardiovascular Outcomes in Adults with Type 1 Diabetes Mellitus: A Nationwide Cohort Study'
+  authors:
+  - Kyeong-Jin Kim
+  - Seohyun Kim
+  - Rosa Oh
+  - So Hyun Cho
+  - Myunghwa Jang
+  - You-Bin Lee
+  - Gyuri Kim
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Ji Yoon Kim
+  - Jae Hyeon Kim
+  publisher: Diabetes & Metabolism Journal
+  date: '2025-09-04'
+  link: https://doi.org/10.4093/dmj.2025.0179
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.surg.2018.11.016
+  title: 'Reply to letter to editor regarding: "A clinical prediction model to estimate the metastatic potential of Pheochromocytoma/paraganglioma: ASES score"'
+  authors:
+  - Yoon Young Cho
+  - Mi Kyung Kwak
+  - Seung-Eun Lee
+  - Jae Hyeon Kim
+  - Seung Hun Lee
+  publisher: Surgery
+  date: '2019-01-29'
+  link: https://doi.org/10.1016/j.surg.2018.11.016
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.diabres.2025.112951
+  title: Identification of clinically meaningful automatically detected postprandial glucose excursions in individuals with type 1 diabetes using personal continuous glucose monitoring
+  authors:
+  - Sang Ho Park
+  - Rosa Oh
+  - Seohyun Kim
+  - Seung Hee Yang
+  - Hanna Lee
+  - Ji Yoon Kim
+  - So Hyun Cho
+  - Soojin Park
+  - Gyuri Kim
+  - Jae Hyeon Kim
+  - "Sang\u2013Man Jin"
+  publisher: Diabetes Research and Clinical Practice
+  date: '2025-10-21'
+  link: https://doi.org/10.1016/j.diabres.2025.112951
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.4093/dmj.2025.0112
+  title: Effectiveness of the Stage 4 Smart Insulin Pen DIA:CONN P8 for Glycemic Control in a Real-World Setting
+  authors:
+  - So Yoon Kwon
+  - Hyoseon Kwak
+  - Jae Hyeon Kim
+  publisher: Diabetes & Metabolism Journal
+  date: '2025-09-03'
+  link: https://doi.org/10.4093/dmj.2025.0112
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.23876/j.krcp.24.296
+  title: Applicability of current chronic kidney disease criteria for mortality and end-stage kidney disease in older diabetic populations
+  authors:
+  - Kyungho Lee
+  - Subin Hwang
+  - Jeeeun Park
+  - Do Hee Kim
+  - Junseok Jeon
+  - Hye Ryoun Jang
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  - Wooseong Huh
+  - Jung Eun Lee
+  publisher: Kidney Research and Clinical Practice
+  date: '2025-09-04'
+  link: https://doi.org/10.23876/j.krcp.24.296
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.3803/EnM.2024.2083
+  title: Plasma C-Peptide Levels and the Continuous Glucose Monitoring-Defined Coefficient of Variation in Risk Prediction for Hypoglycemia in Korean People with Diabetes Having Normal and Impaired Kidney Function
+  authors:
+  - So Yoon Kwon
+  - Jiyun Park
+  - So Hee Park
+  - You-Bin Lee
+  - Gyuri Kim
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  - Sang-Man Jin
+  publisher: Endocrinology and Metabolism
+  date: '2025-02-27'
+  link: https://doi.org/10.3803/enm.2024.2083
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1177/19322968251382570
+  title: Cost-Effectiveness Analysis of Real-Time Continuous Glucose Monitoring Versus Self-Monitoring of Blood Glucose in People With Type 2 Diabetes Treated With Non-Intensive Insulin Therapy in South Korea
+  authors:
+  - Ji Yoon Kim
+  - Sabrina Ilham
+  - Hamza Alshannaq
+  - Richard F. Pollock
+  - Martin Field
+  - Gregory J. Norman
+  - Sang-Man Jin
+  - Jae Hyeon Kim
+  publisher: Journal of Diabetes Science and Technology
+  date: '2025-10-22'
+  link: https://doi.org/10.1177/19322968251382570
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.atherosclerosis.2014.01.015
+  title: Non-HDL cholesterol is an independent risk factor for aspirin resistance in obese patients with type 2 diabetes
+  authors:
+  - Jong Dai Kim
+  - Cheol-Young Park
+  - Kue Jeong Ahn
+  - Jae Hyoung Cho
+  - Kyung Mook Choi
+  - Jun Goo Kang
+  - Jae Hyeon Kim
+  - Ki Young Lee
+  - Byung Wan Lee
+  - Ji Oh Mok
+  - Min Kyong Moon
+  - Joong Yeol Park
+  - Sung Woo Park
+  publisher: Atherosclerosis
+  date: '2014-03-25'
+  link: https://doi.org/10.1016/j.atherosclerosis.2014.01.015
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1186/s13098-026-02139-7
+  title: Association between body weight time in target range and risk of type 2 diabetes in adults with obesity
+  authors:
+  - Soojin Park
+  - Seohyun Kim
+  - Sang Ho Park
+  - Minkyeong Kim
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  - Gyuri Kim
+  publisher: Diabetology & Metabolic Syndrome
+  date: '2026-03-03'
+  link: https://doi.org/10.1186/s13098-026-02139-7
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/s00125-026-06709-2
+  title: 'Continuous glucose monitoring and risks of acute and chronic diabetes-related
+    complications and mortality in adults with type 1 diabetes: a nationwide cohort
+    study'
+  authors:
+  - Ji Yoon Kim
+  - Seohyun Kim
+  - Jae Hyeon Kim
+  publisher: Diabetologia
+  date: '2026-03-22'
+  link: https://doi.org/10.1007/s00125-026-06709-2
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1111/dom.70677
+  title: 'Dementia Risk in Type 1 and 2 Diabetes: A Nationwide Population-Based Comparison'
+  authors:
+  - Ji Eun Jun
+  - Seohyun Kim
+  - In-Kyung Jeong
+  - Jae Hyeon Kim
+  publisher: Diabetes, Obesity and Metabolism
+  date: '2026-03-19'
+  link: https://doi.org/10.1111/dom.70677
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/s40618-026-02835-1
+  title: 'Feasibility of a semiautomated, individualized coaching intervention for
+    glycemic management in adults with type 1 diabetes: a pilot randomized controlled
+    trial'
+  authors:
+  - Seohyun Kim
+  - Minkyeong Kim
+  - Sang Ho Park
+  - Soojin Park
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Jae Hyeon Kim
+  - Gyuri Kim
+  publisher: Journal of Endocrinological Investigation
+  date: '2026-03-07'
+  link: https://doi.org/10.1007/s40618-026-02835-1
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1111/dme.70204
+  title: 'Association of perceived diabetes stigma with time below range <3.0 mmol/L
+    and anxiety in adults with type 1 diabetes using continuous glucose monitoring'
+  authors:
+  - Seohyun Kim
+  - Soojin Park
+  - Sang-Man Jin
+  - Jae Hyeon Kim
+  - Gyuri Kim
+  publisher: Diabetic Medicine
+  date: '2026-01-18'
+  link: https://doi.org/10.1111/dme.70204
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1111/dom.70455
+  title: 'Elevated triglyceride-glucose index is associated with increased risk of
+    chronic kidney disease and end-stage renal disease in type 1 diabetes: Nationwide
+    cohort study'
+  authors:
+  - Rosa Oh
+  - Seohyun Kim
+  - So Hyun Cho
+  - Ji Yoon Kim
+  - Myunghwa Jang
+  - Sang Ho Park
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Gyuri Kim
+  - Jae Hyeon Kim
+  publisher: Diabetes, Obesity and Metabolism
+  date: '2026-01-07'
+  link: https://doi.org/10.1111/dom.70455
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1007/s00125-025-06615-z
+  title: 'High incidence of eating disorders in individuals with type 2 diabetes
+    and their association with cardiovascular and mortality risks'
+  authors:
+  - So Hyun Cho
+  - Seohyun Kim
+  - Rosa Oh
+  - Ji Yoon Kim
+  - Myunghwa Jang
+  - You-Bin Lee
+  - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Gyuri Kim
+  - Jae Hyeon Kim
+  publisher: Diabetologia
+  date: '2025-11-26'
+  link: https://doi.org/10.1007/s00125-025-06615-z
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.4093/dmj.2024.0804
   title: "Current Status of Continuous Glucose Monitoring Use in South Korean Type\
     \ 1 Diabetes Mellitus Population\u2013Pronounced Age-Related Disparities: Nationwide\

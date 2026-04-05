@@ -1,3 +1,239 @@
+- id: doi:10.1111/dom.15985
+  type: paper
+  date: '2024-10-08'
+- id: doi:10.1186/s12933-025-02712-w
+  type: paper
+  date: '2025-04-02'
+- id: doi:10.1016/j.jacc.2025.07.021
+  type: paper
+  date: '2025-09-10'
+- id: doi:10.1186/s12933-024-02489-4
+  type: paper
+  date: '2024-11-02'
+- id: doi:10.1111/dom.70030
+  type: paper
+  date: '2025-08-14'
+- id: doi:10.1038/s41598-025-30882-w
+  type: paper
+  date: '2025-12-11'
+- id: doi:10.4093/dmj.2025.0469
+  type: paper
+  date: '2025-07-09'
+- id: doi:10.1038/s41598-025-16750-7
+  type: paper
+  date: '2025-08-23'
+- id: doi:10.4093/dmj.2024.0641
+  type: paper
+  date: '2025-07-22'
+- id: doi:10.1038/s41598-025-94783-8
+  type: paper
+  date: '2025-04-03'
+- id: doi:10.4093/dmj.2024.0160
+  type: paper
+  date: '2025-02-27'
+- id: doi:10.1007/s00125-025-06442-2
+  type: paper
+  date: '2025-05-07'
+- id: doi:10.1016/j.diabres.2025.112325
+  type: paper
+  date: '2025-06-11'
+- id: doi:10.1016/j.bbrc.2025.151730
+  type: paper
+  date: '2025-04-01'
+- id: doi:10.1016/j.psychres.2024.116228
+  type: paper
+  date: '2024-10-20'
+- id: doi:10.1177/19322968241310850
+  type: paper
+  date: '2025-01-08'
+- id: doi:10.3892/or.2015.4000
+  type: paper
+  date: '2015-05-23'
+- id: doi:10.1016/j.bios.2025.118321
+  type: paper
+  date: '2025-12-23'
+- id: doi:10.3803/EnM.2024.1985
+  type: paper
+  date: '2024-11-15'
+- id: doi:10.12701/jyms.2025.42.60
+  type: paper
+  date: '2025-09-30'
+- id: doi:10.1007/s13300-018-0470-9
+  type: paper
+  date: '2018-07-13'
+- id: doi:10.1097/MPA.0b013e318214832d
+  type: paper
+  date: '2011-07-13'
+- id: doi:10.1097/TP.0b013e3181c7dc99
+  type: paper
+  date: '2010-02-04'
+- id: doi:10.3803/EnM.2024.2082
+  type: paper
+  date: '2025-02-04'
+- id: doi:10.1080/13696998.2024.2405293
+  type: paper
+  date: '2024-09-14'
+- id: doi:10.1063/5.0020137
+  type: paper
+  date: '2020-12-02'
+- id: doi:10.1186/s12889-025-24617-9
+  type: paper
+  date: '2025-11-01'
+- id: doi:10.1002/dmrr.3363
+  type: paper
+  date: '2020-06-11'
+- id: doi:10.4093/dmj.2025.0477
+  type: paper
+  date: '2025-12-15'
+- id: doi:10.1097/TP.0b013e318191e925
+  type: paper
+  date: '2009-01-22'
+- id: doi:10.4093/dmj.2024.0804
+  type: paper
+  date: '2025-04-28'
+- id: doi:10.3803/EnM.2025.2579
+  type: paper
+  date: '2025-12-14'
+- id: doi:10.4093/dmj.2025.0179
+  type: paper
+  date: '2025-09-04'
+- id: doi:10.1016/j.surg.2018.11.016
+  type: paper
+  date: '2019-01-29'
+- id: doi:10.1111/joim.20071
+  type: paper
+  date: '2025-02-11'
+- id: doi:10.1007/s11739-024-03758-6
+  type: paper
+  date: '2024-09-05'
+- id: doi:10.1016/j.diabres.2025.112951
+  type: paper
+  date: '2025-10-21'
+- id: doi:10.4093/dmj.2025.0112
+  type: paper
+  date: '2025-09-03'
+- id: doi:10.23876/j.krcp.24.296
+  type: paper
+  date: '2025-09-04'
+- id: doi:10.4093/dmj.2024.0039
+  type: paper
+  date: '2024-08-28'
+- id: doi:10.3803/EnM.2024.2083
+  type: paper
+  date: '2025-02-27'
+- id: doi:10.1177/19322968251382570
+  type: paper
+  date: '2025-10-22'
+- id: doi:10.1016/j.atherosclerosis.2014.01.015
+  type: paper
+  date: '2014-03-25'
+- id: doi:10.1186/s13098-026-02139-7
+  type: paper
+  date: '2026-03-03'
+- id: doi:10.1177/19322968241288579
+  type: paper
+  date: '2024-10-14'
+- id: doi:10.1177/19322968241306136
+  type: paper
+  date: '2025-01-04'
+- id: doi:10.1007/s00125-026-06709-2
+  title: 'Continuous glucose monitoring and risks of acute and chronic diabetes-related
+    complications and mortality in adults with type 1 diabetes: a nationwide cohort
+    study'
+  authors:
+    - Ji Yoon Kim
+    - Seohyun Kim
+    - Jae Hyeon Kim
+  publisher: Diabetologia
+  date: 2026-03-22
+  link: https://doi.org/10.1007/s00125-026-06709-2
+  orcid: 0000-0001-5001-963X
+  type: paper
+- id: doi:10.1111/dom.70677
+  title: 'Dementia Risk in Type 1 and 2 Diabetes: A Nationwide Population-Based Comparison'
+  authors:
+    - Ji Eun Jun
+    - Seohyun Kim
+    - In-Kyung Jeong
+    - Jae Hyeon Kim
+  publisher: Diabetes, Obesity and Metabolism
+  date: 2026-03-19
+  link: https://doi.org/10.1111/dom.70677
+  orcid: 0000-0001-5001-963X
+  type: paper
+- id: doi:10.1007/s40618-026-02835-1
+  title: 'Feasibility of a semiautomated, individualized coaching intervention for
+    glycemic management in adults with type 1 diabetes: a pilot randomized controlled
+    trial'
+  authors:
+    - Seohyun Kim
+    - Minkyeong Kim
+    - Sang Ho Park
+    - Soojin Park
+    - You-Bin Lee
+    - Sang-Man Jin
+    - Kyu Yeon Hur
+    - Jae Hyeon Kim
+    - Gyuri Kim
+  publisher: Journal of Endocrinological Investigation
+  date: 2026-03-07
+  link: https://doi.org/10.1007/s40618-026-02835-1
+  orcid: 0000-0001-5001-963X
+  type: paper
+- id: doi:10.1111/dme.70204
+  title: 'Association of perceived diabetes stigma with time below range <3.0 mmol/L
+    and anxiety in adults with type 1 diabetes using continuous glucose monitoring'
+  authors:
+    - Seohyun Kim
+    - Soojin Park
+    - Sang-Man Jin
+    - Jae Hyeon Kim
+    - Gyuri Kim
+  publisher: Diabetic Medicine
+  date: 2026-01-18
+  link: https://doi.org/10.1111/dme.70204
+  orcid: 0000-0001-5001-963X
+  type: paper
+- id: doi:10.1111/dom.70455
+  title: 'Elevated triglyceride-glucose index is associated with increased risk of
+    chronic kidney disease and end-stage renal disease in type 1 diabetes: Nationwide
+    cohort study'
+  authors:
+    - Rosa Oh
+    - Seohyun Kim
+    - So Hyun Cho
+    - Ji Yoon Kim
+    - Myunghwa Jang
+    - Sang Ho Park
+    - You-Bin Lee
+    - Sang-Man Jin
+    - Kyu Yeon Hur
+    - Gyuri Kim
+    - Jae Hyeon Kim
+  publisher: Diabetes, Obesity and Metabolism
+  date: 2026-01-07
+  link: https://doi.org/10.1111/dom.70455
+  orcid: 0000-0001-5001-963X
+  type: paper
+- id: doi:10.1007/s00125-025-06615-z
+  title: 'High incidence of eating disorders in individuals with type 2 diabetes
+    and their association with cardiovascular and mortality risks'
+  authors:
+    - So Hyun Cho
+    - Seohyun Kim
+    - Rosa Oh
+    - Ji Yoon Kim
+    - Myunghwa Jang
+    - You-Bin Lee
+    - Sang-Man Jin
+    - Kyu Yeon Hur
+    - Gyuri Kim
+    - Jae Hyeon Kim
+  publisher: Diabetologia
+  date: 2025-11-26
+  link: https://doi.org/10.1007/s00125-025-06615-z
+  orcid: 0000-0001-5001-963X
+  type: paper
 - id: doi:10.1007/s00125-024-06152-1
   type: paper
   description: Continuous glucose monitoring
