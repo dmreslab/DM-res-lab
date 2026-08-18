@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1177/19322968261471490
+  title: Retrospective Validation of a Stage 5 Decision Support Algorithm Using Clinical
+    Trial Data From Stage 4 Smart Insulin Pens
+  authors:
+  - Jee Hee Yoo
+  - Seohyun Kim
+  - Younghoon Kim
+  - Sang-Man Jin
+  - Jae Hyeon Kim
+  publisher: Journal of Diabetes Science and Technology
+  date: '2026-08-03'
+  link: https://doi.org/hcd7xx
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/dom.71117
+  title: "Association of Variability of Monthly Continuous Glucose Monitoring\u2010\
+    Derived Metrics With Diabetic Kidney Disease in Type 1 Diabetes"
+  authors:
+  - Byeongjae Kang
+  - Rosa Oh
+  - Taeyoung Kim
+  - Jee Hee Yoo
+  - Danbee Kang
+  - Gyuri Kim
+  - "Sang\u2010Man Jin"
+  - Myung Jin Chung
+  - Jae Hyeon Kim
+  publisher: Diabetes, Obesity and Metabolism
+  date: '2026-07-14'
+  link: https://doi.org/hcb46w
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00125-026-06709-2
   title: 'Continuous glucose monitoring and risks of acute and chronic diabetes-related
     complications and mortality in adults with type 1 diabetes: a nationwide cohort
@@ -15,6 +49,20 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+- id: doi:10.1016/j.jvir.2026.108894
+  title: 'Ablation for Aldosterone-Producing versus Cortisol-Producing Adrenal Adenomas:
+    A Comprehensive Review'
+  authors:
+  - Byung Kwan Park
+  - Jae Hyeon Kim
+  - Young Lyun Oh
+  - Jung-Han Kim
+  publisher: Journal of Vascular and Interventional Radiology
+  date: '2026-09-01'
+  link: https://doi.org/hb7pzj
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/dom.70677
   title: 'Dementia Risk in Type 1 and 2 Diabetes: A Nationwide Population-Based Comparison'
   authors:
@@ -29,6 +77,64 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+- id: doi:10.4093/dmj.2025.0112
+  title: Effectiveness of the Stage 4 Smart Insulin Pen DIA:CONN P8 for Glycemic Control
+    in a Real-World Setting
+  authors:
+  - So Yoon Kwon
+  - Hyoseon Kwak
+  - Jae Hyeon Kim
+  publisher: Diabetes &amp; Metabolism Journal
+  date: '2025-09-03'
+  link: https://doi.org/g92t2p
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1177/19322968241310850
+  title: Glycemia Risk Index is Associated With Risk of Albuminuria Among Individuals
+    With Type 1 Diabetes
+  authors:
+  - Ji Yoon Kim
+  - Jee Hee Yoo
+  - Nam Hoon Kim
+  - Jae Hyeon Kim
+  publisher: Journal of Diabetes Science and Technology
+  date: '2025-01-08'
+  link: https://doi.org/g8zjwv
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1177/19322968241306136
+  title: Improved Glycemic Control in Insulin-Treated Individuals With Poorly Controlled
+    Type 2 Diabetes Through Combined Structured Education With Real-Time Continuous
+    Glucose Monitoring
+  authors:
+  - Jee Hee Yoo
+  - Ji Eun Jun
+  - Soo Heon Kwak
+  - Jae Hyeon Kim
+  publisher: Journal of Diabetes Science and Technology
+  date: '2025-01-04'
+  link: https://doi.org/g8xr66
+  orcid: 0000-0001-5001-963X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.4093/dmj.2025.0794
+  title: 'Association between Continuous Glucose Monitoring and Risk of Acute Diabetes-Related
+    Complications in Pediatric Type 1 Diabetes Mellitus: A Nationwide Cohort Study'
+  authors:
+  - Ji Yoon Kim
+  - Seohyun Kim
+  - Jae Hyeon Kim
+  publisher: Diabetes &amp; Metabolism Journal
+  date: '2026-04-22'
+  link: https://doi.org/hbzkr3
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s40618-026-02835-1
   title: 'Feasibility of a semiautomated, individualized coaching intervention for
     glycemic management in adults with type 1 diabetes: a pilot randomized controlled
@@ -118,20 +224,6 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- id: doi:10.4093/dmj.2025.0112
-  title: Effectiveness of the Stage 4 Smart Insulin Pen DIA:CONN P8 for Glycemic Control
-    in a Real-World Setting
-  authors:
-  - So Yoon Kwon
-  - Hyoseon Kwak
-  - Jae Hyeon Kim
-  publisher: Diabetes &amp; Metabolism Journal
-  date: '2025-09-03'
-  link: https://doi.org/g92t2p
-  orcid: 0000-0001-5001-963X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
 - id: doi:10.4093/dmj.2024.0804
   title: "Current Status of Continuous Glucose Monitoring Use in South Korean Type\
     \ 1 Diabetes Mellitus Population\u2013Pronounced Age-Related Disparities: Nationwide\
@@ -217,37 +309,6 @@
   publisher: Journal of Internal Medicine
   date: '2025-02-11'
   link: https://doi.org/g848wk
-  orcid: 0000-0001-5001-963X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-- id: doi:10.1177/19322968241310850
-  title: Glycemia Risk Index is Associated With Risk of Albuminuria Among Individuals
-    With Type 1 Diabetes
-  authors:
-  - Ji Yoon Kim
-  - Jee Hee Yoo
-  - Nam Hoon Kim
-  - Jae Hyeon Kim
-  publisher: Journal of Diabetes Science and Technology
-  date: '2025-01-08'
-  link: https://doi.org/g8zjwv
-  orcid: 0000-0001-5001-963X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-- id: doi:10.1177/19322968241306136
-  title: Improved Glycemic Control in Insulin-Treated Individuals With Poorly Controlled
-    Type 2 Diabetes Through Combined Structured Education With Real-Time Continuous
-    Glucose Monitoring
-  authors:
-  - Jee Hee Yoo
-  - Ji Eun Jun
-  - Soo Heon Kwak
-  - Jae Hyeon Kim
-  publisher: Journal of Diabetes Science and Technology
-  date: '2025-01-04'
-  link: https://doi.org/g8xr66
   orcid: 0000-0001-5001-963X
   plugin: sources.py
   file: sources.yaml
@@ -1657,7 +1718,7 @@
   file: sources.yaml
 - id: doi:10.3803/EnM.2025.2579
   title: 'Efficacy and Safety of Stage 5 Connected Insulin Pens in Type 1 or Type
-    2 Diabetes: Randomized Controlled Trial Protocol'
+    2 Diabetes: Randomized Controlled Trial Protocol (SMART-5 Study)'
   authors:
   - Ji Yoon Kim
   - Nam Hoon Kim
@@ -3801,8 +3862,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.4093/dmj.2018.0227
-  title: 'An Electronic Health Record-Integrated Computerized Intravenous Insulin
-    Infusion Protocol: Clinical Outcomes and <i>in Silico</i> Adjustment'
+  title: "An Electronic Health Record-Integrated Computerized Intravenous Insulin\
+    \ Infusion Protocol: Clinical Outcomes and\n                    <i>in Silico</i>\n\
+    \                    Adjustment"
   authors:
   - Sung Woon Park
   - Seunghyun Lee
