@@ -1,17 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1177/19322968261471490
-  title: Retrospective Validation of a Stage 5 Decision Support Algorithm Using Clinical
-    Trial Data From Stage 4 Smart Insulin Pens
+- id: doi:10.1016/j.jpsychores.2026.112984
+  title: 'Elevated remnant cholesterol levels and variability with incident mental
+    disorders in adults with type 1 diabetes: a nationwide cohort study'
   authors:
-  - Jee Hee Yoo
   - Seohyun Kim
-  - Younghoon Kim
+  - Sang Ho Park
+  - So Hyun Cho
+  - Rosa Oh
+  - Ji Yoon Kim
+  - You-Bin Lee
   - Sang-Man Jin
+  - Kyu Yeon Hur
+  - Gyuri Kim
   - Jae Hyeon Kim
-  publisher: Journal of Diabetes Science and Technology
-  date: '2026-08-03'
-  link: https://doi.org/hcd7xx
+  publisher: Journal of Psychosomatic Research
+  date: '2026-12-01'
+  link: https://doi.org/hcjg2w
   orcid: 0000-0001-5001-963X
   plugin: orcid.py
   file: orcid.yaml
@@ -31,6 +36,39 @@
   publisher: Diabetes, Obesity and Metabolism
   date: '2026-07-14'
   link: https://doi.org/hcb46w
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2337/dc26-1039
+  title: 'Three-Year Glycemic Trajectories in Subgroups With Type 1 Diabetes at Risk
+    for Suboptimal Glycemic Control: A Multicenter Continuous Glucose Monitoring Study'
+  authors:
+  - Jee Hee Yoo
+  - Seohyun Kim
+  - Yeonsoo Park
+  - Soojin Park
+  - Choon Hee Chung
+  - Jae Hyeon Kim
+  - Soo Heon Kwak
+  - Gyuri Kim
+  publisher: Diabetes Care
+  date: '2026-09-16'
+  link: https://doi.org/hcj8r6
+  orcid: 0000-0001-5001-963X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/19322968261471490
+  title: Retrospective Validation of a Stage 5 Decision Support Algorithm Using Clinical
+    Trial Data From Stage 4 Smart Insulin Pens
+  authors:
+  - Jee Hee Yoo
+  - Seohyun Kim
+  - Younghoon Kim
+  - Sang-Man Jin
+  - Jae Hyeon Kim
+  publisher: Journal of Diabetes Science and Technology
+  date: '2026-08-03'
+  link: https://doi.org/hcd7xx
   orcid: 0000-0001-5001-963X
   plugin: orcid.py
   file: orcid.yaml
